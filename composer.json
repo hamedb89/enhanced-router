@@ -1,15 +1,19 @@
 {
     "name": "hamedbahrami/enhanced-router",
-    "description": "",
+    "description": "Enhanced Router Extension for Laravel 4.2 forked from Jason Lewis‘ Enhanced Router",
+    "version": "1.0.4",
+    "license": "BSD-2-Clause",
     "authors": [
         {
             "name": "Hamed Bahrami",
-            "email": "email@hamedbahrami.de"
+            "email": "email@hamedbahrami.de",
+            "homepage": "http://www.hamedbahrami.de"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.2.*"
+        "illuminate/support": "4.2.*",
+        "illuminate/routing": "4.2.*"
     },
     "autoload": {
         "psr-0": {
