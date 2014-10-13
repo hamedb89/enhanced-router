@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/hamedb89/enhanced-router.svg?branch=master)](https://travis-ci.org/hamedb89/enhanced-router)
 # Enhanced Router 4.2
 Enhanced Router is a rebuild from [Jason Lewis Enhanced Router](https://github.com/jasonlewis/enhanced-router) for Laravel 4.0. Enhanced Router is an extension to the Laravel 4 router and provides some enhanced functionality. Most of the ``README.md`` and also the whole extension is a copy of the original extension from [Jason Lewis](https://github.com/jasonlewis) with minor adaptions for the extension to be adaptable to laravel 4.2.
 
